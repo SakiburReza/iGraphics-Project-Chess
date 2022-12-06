@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1530555399 source:c:\users\lenovo\documents\chess board\main.cpp
+	"iGraphics.h"
+
+1527773346 c:\users\lenovo\documents\chess board\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl\glaux.h>
+
+1530555399 source:e:\cse\1-1\term project\chess board\main.cpp
+	"iGraphics.h"
+
+1527773346 e:\cse\1-1\term project\chess board\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl\glaux.h>
+
